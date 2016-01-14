@@ -1,6 +1,6 @@
-# git-repos [![Support this project][donate-now]][paypal-donations]
+# git-repos [![PayPal](https://img.shields.io/badge/%24-paypal-f39c12.svg)][paypal-donations] [![Version](https://img.shields.io/npm/v/git-repos.svg)](https://www.npmjs.com/package/git-repos) [![Downloads](https://img.shields.io/npm/dt/git-repos.svg)](https://www.npmjs.com/package/git-repos) [![Get help on Codementor](https://cdn.codementor.io/badges/get_help_github.svg)](https://www.codementor.io/johnnyb?utm_source=github&utm_medium=button&utm_term=johnnyb&utm_campaign=github)
 
-Find all the git repositories in a specified directory, recursively.
+> Find all the git repositories in a specified directory, recursively.
 
 ## Installation
 
