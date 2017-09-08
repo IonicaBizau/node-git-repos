@@ -1,6 +1,6 @@
 {
   "name": "git-repos",
-  "version": "1.2.7",
+  "version": "1.2.8",
   "description": "Find all the git repositories in a specified directory, recursively.",
   "main": "lib/index.js",
   "directories": {
@@ -39,6 +39,9 @@
     "resources/",
     "menu/",
     "cli.js",
-    "index.js"
+    "index.js",
+    "bloggify.js",
+    "bloggify.json",
+    "bloggify/"
   ]
 }
